@@ -2,6 +2,8 @@
 #include<string>
 using namespace std;
 int main(){
-    string x = "Prince";
-    cout<<x;
+    // string x = "Prince";
+   string s;
+   getline(cin,s);
+   cout<<s;
 }
